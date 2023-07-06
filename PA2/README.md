@@ -8,9 +8,8 @@
     ├── doc                   # reports
     ├── inputs                # input data
     ├── outputs               # output result
-    ├── lib                   # library
     ├── src                   # source C++ codes
-    └── utility               # checker
+    └── utilities               # checker
 
 
 ### HOW TO CIMPILE:
