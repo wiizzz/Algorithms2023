@@ -1,7 +1,20 @@
 # PA3
 
-## compile: 
-make all
+### DIRECTORY:
 
-## run:
-./bin/cb ./inputs/testcase.in ./outputs/testcase.out
+    .
+    ├── bin                   # executable binary
+    ├── doc                   # reports
+    ├── inputs                # input data
+    ├── outputs               # output result
+    ├── src                   # source C++ codes
+    └── utilities             # checker
+
+
+### HOW TO CIMPILE:
+	make all
+
+### HOW TO RUN:
+
+	cd bin/
+	./bin/cb <input_file_name> <output_file_name>
