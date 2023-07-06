@@ -9,7 +9,7 @@
     ├── inputs                # input data
     ├── outputs               # output result
     ├── src                   # source C++ codes
-    └── utilities               # checker
+    └── utilities             # checker
 
 
 ### HOW TO CIMPILE:
